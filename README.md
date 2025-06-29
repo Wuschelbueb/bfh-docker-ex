@@ -29,6 +29,8 @@ docker container run --detach -p 80:80 linux_tweet_app
 
 Open the browser and access `https://localhost:80`
 
-
 <img width="1015" alt="image" src="https://github.com/user-attachments/assets/374bcf3d-fcaa-427f-b272-43223026bb0c">
 
+## Exercises
+
+All the exercises can be found in the other Markdown files and the screenshots are in the specific directories.
