@@ -1,4 +1,4 @@
-![Build-Push-And-Test Workflow](https://github.com/wuschelbueb/bfh-docker-ex/actions/workflows/build-push-and-deploy.yml/badge.svg)
+![Build-Push-And-Test Workflow](https://github.com/wuschelbueb/bfh-docker-ex/actions/workflows/build-push-and-deploy.yaml/badge.svg)
 
 # Linux Tweet App
 
